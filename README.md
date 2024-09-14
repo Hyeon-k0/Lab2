@@ -1,1 +1,1 @@
-# Lab2
+It's for OpenSource Lab2.
